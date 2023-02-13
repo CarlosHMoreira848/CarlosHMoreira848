@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Carlos Henrique!
 
-- 🔭 Sou Desenvolvedor de Software, nesse momento desempregado.
-- 🌱 Estou estudando os fundamentos do Front-end com HTML, CSS e Javascript.
+- 🔭 Sou Desenvolvedor de Software, há aproximadamente 2 anos.
+- 🌱 Estudei os fundamentos do Front-end com HTML, CSS e Javascript e atualmente estudo Back-end com Java.
 - ⚡ Me interesso por música, livros e atividades físicas.
 
 
