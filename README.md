@@ -2,7 +2,7 @@
 
 - 🔭 Sou Desenvolvedor de Software, há aproximadamente 2 anos.
 - 🌱 Estudei os fundamentos do Front-end com HTML, CSS e Javascript e atualmente estudo Back-end com Java.
-- ⚡ Me interesso por música, livros e atividades físicas.
+- ⚡ Me interesso por música, física e filosofia.
 
 <div style="display: inline_block"><br>
     <img align="center" alt="CHM848-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
