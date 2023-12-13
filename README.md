@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://discord.gg/B2DgFP86">Discord</a> •
-  <a href=https://twitter.com/intent/follow?screen_name=swyx&tw_p=followbutton](https://www.linkedin.com/in/carlos-henrique-desenvolvimento-de-software/">Linkedin</a> •
+  <a href=https://www.linkedin.com/in/carlos-henrique-desenvolvimento-de-software/">Linkedin</a> •
   <a href="https://www.instagram.com/carloshenriquemoreiraoficial/">Instagram</a> •
   <a href="https://www.facebook.com/profile.php?id=100090549954215">Facebook</a>
 </p>
