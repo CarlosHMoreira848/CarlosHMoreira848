@@ -1,4 +1,7 @@
-### Olá! Meu nome é Carlos Henrique!
+
+
+![Hello_world__I_am_Carlos_-removebg-preview](https://github.com/CarlosHMoreira848/CarlosHMoreira848/assets/84051885/6d720dd0-4653-49a7-924d-b757530720eb)
+
 
 - 🔭 Sou Desenvolvedor de Software, há aproximadamente 2 anos.
 - 🌱 Estudei os fundamentos do Front-end com HTML, CSS e Javascript e atualmente estudo Back-end com Java.
