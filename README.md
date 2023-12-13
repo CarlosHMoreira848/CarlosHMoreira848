@@ -2,6 +2,13 @@
 
 ![Hello_world__I_am_Carlos_-removebg-preview](https://github.com/CarlosHMoreira848/CarlosHMoreira848/assets/84051885/6d720dd0-4653-49a7-924d-b757530720eb)
 
+<p align="center">
+  <a href="https://discord.gg/B2DgFP86">Discord</a> •
+  <a href=https://twitter.com/intent/follow?screen_name=swyx&tw_p=followbutton](https://www.linkedin.com/in/carlos-henrique-desenvolvimento-de-software/">Linkedin</a> •
+  <a href="https://www.instagram.com/carloshenriquemoreiraoficial/">Instagram</a> •
+  <a href="https://www.facebook.com/profile.php?id=100090549954215">Facebook</a>
+</p>
+
 
 - 🔭 Sou Desenvolvedor de Software, há aproximadamente 2 anos.
 - 🌱 Estudei os fundamentos do Front-end com HTML, CSS e Javascript e atualmente estudo Back-end com Java.
@@ -18,8 +25,8 @@
   ##
   
   <div> 
-  <a href="https://www.linkedin.com/in/carlos-henrique-desenvolvimento-de-software/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <div>
+
+<div>
     
     
   
