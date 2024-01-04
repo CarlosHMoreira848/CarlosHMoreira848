@@ -2,7 +2,7 @@
 
 ![Hello_world__I_am_Carlos_-removebg-preview](https://github.com/CarlosHMoreira848/CarlosHMoreira848/assets/84051885/6d720dd0-4653-49a7-924d-b757530720eb)
 
-<p align="center">
+<p align="center" target="_blank">
   <a href="https://discord.gg/B2DgFP86" target="_blank">Discord</a> •
   <a href="https://www.linkedin.com/in/carlos-henrique-desenvolvimento-de-software/" target="_blank">Linkedin</a> •
   <a href="https://www.instagram.com/carloshenriquemoreiraoficial/" target="_blank">Instagram</a> •
