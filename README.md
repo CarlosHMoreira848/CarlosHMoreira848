@@ -6,7 +6,8 @@
   <a href="https://discord.gg/B2DgFP86">Discord</a> •
   <a href=https://www.linkedin.com/in/carlos-henrique-desenvolvimento-de-software/">Linkedin</a> •
   <a href="https://www.instagram.com/carloshenriquemoreiraoficial/">Instagram</a> •
-  <a href="https://www.facebook.com/profile.php?id=100090549954215">Facebook</a>
+  <a href="https://www.facebook.com/profile.php?id=100090549954215">Facebook</a> •
+  <a href="https://github.com/CarlosHMoreira848/Leia-me">Readme profissional</a>
 </p>
 
 
