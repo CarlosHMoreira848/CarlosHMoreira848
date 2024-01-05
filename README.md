@@ -14,9 +14,10 @@
 
 Em meados de 2018 tive que decidir por qual caminho trilhar após a conclusão de meus estudos no colegial. A fascinação era tanta que de primeira escolhi uma Licenciatura em Física; queria aprender sobre o átomo, suas estruturas básicas e as forças influentes da natureza. Descobri após mais de um ano estudando o assunto formalmente que minha alegria não se encontrava na área que iniciei em si, mas, no uso das informações na construção de uma sabedoria de vida! 
 Não tardou no percurso após essa constatação que resolvi avaliar novas possibilidade de atuação profissional que tivesse como premissa habilidades interpessoais, afim de abrir campo para uma carreira promissora e que fosse possível fazer a diferença com o empenho criativo e pessoal que supresse a nova mentalidade... Disseram-me: "Por que não Tecnologia?!"
+
 De lá pra cá, venho conquistando espaço na área através de meu forte impulso por transformações e de vivências colaborativas com projetos e pessoas!
 Fazer tecnologia para mim é usar dos materiais que se dispõe para criação de uma nova maneira viver, mais moderna e transformadora!...
-Convido você a pensarmos juntos, o que de novo e útil podemos fazer pela transformação do modo de se fazer as coisas? 😃🫱🏼‍🫲🏽🕊️
+Convido você a pensarmos juntos, o que de novo e útil podemos fazer pela transformação do modo de se fazer as coisas? 😃🕊️
 
 <div style="display: inline_block"><br>
     <img align="center" alt="CHM848-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
