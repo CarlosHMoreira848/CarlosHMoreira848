@@ -22,7 +22,7 @@ Convido você a pensarmos juntos, o que de novo e útil podemos fazer pela trans
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CarlosHMoreira848&theme=swift&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHMoreira848&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHMoreira848&layout=compact&theme=swift&locale=pt-br)
 
 <div style="display: inline_block"><br>
     <img align="center" alt="CHM848-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
