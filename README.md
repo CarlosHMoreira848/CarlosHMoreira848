@@ -1,6 +1,6 @@
 
+![Hello world, I’am Carlos! (1)-PhotoRoom png-PhotoRoom](https://github.com/CarlosHMoreira848/CarlosHMoreira848/assets/84051885/683df0b7-d272-4b51-ab71-d2bacb5f5d24)
 
-![Hello_world__I_am_Carlos_-removebg-preview](https://github.com/CarlosHMoreira848/CarlosHMoreira848/assets/84051885/6d720dd0-4653-49a7-924d-b757530720eb)
 
 <p align="center" target="_blank">
   <a href="https://discord.gg/B2DgFP86" target="_blank">Discord</a> •
