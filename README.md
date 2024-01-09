@@ -1,5 +1,5 @@
 
-![Hello world, I’am Carlos! (1)-PhotoRoom png-PhotoRoom](https://github.com/CarlosHMoreira848/CarlosHMoreira848/assets/84051885/683df0b7-d272-4b51-ab71-d2bacb5f5d24)
+![Hello_world__I_am_Carlos___1_-removebg-preview](https://github.com/CarlosHMoreira848/CarlosHMoreira848/assets/84051885/d6c61f02-e40f-4d91-9372-11bb39bc851f)
 
 
 <p align="center" target="_blank">
