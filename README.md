@@ -49,7 +49,7 @@ Convido você a pensarmos juntos, o que de novo e útil podemos fazer pela trans
     <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=CarlosHMoreira848&repo=WonderfulLife&theme=swift&hide_border=true&icon_color=F8D866&show_icons=false" alt="WonderfulLife"></a>
   </p>
 
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=red&logo=repo"/></a>
 </details>
 <details open> 
   <summary><h2>👣 Elogios, sugestões e comentários</h2></summary>
