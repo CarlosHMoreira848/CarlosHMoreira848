@@ -41,8 +41,7 @@ Convido você a pensarmos juntos, o que de novo e útil podemos fazer pela trans
 
 <div>
     
-    
-  
+  <img width=100% src='https://www.imagensanimadas.com/data/media/134/linha-divisoria-imagem-animada-0032.gif' />
   
   
 
