@@ -19,6 +19,8 @@ De lá pra cá, venho conquistando espaço na área através de meu forte impuls
 Fazer tecnologia para mim é usar dos materiais que se dispõe para criação de uma nova maneira viver, mais moderna e transformadora!...
 Convido você a pensarmos juntos, o que de novo e útil podemos fazer pela transformação do modo de se fazer as coisas? 
 
+---
+
 <img align="right" src="https://github.com/CarlosHMoreira848/CarlosHMoreira848/assets/84051885/2471621c-90c0-48b1-814f-045787df8e9a" width=200 />
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CarlosHMoreira848&theme=swift&hide_border=&locale=pt_BR&mode=weekly" alt="GitHub Streak" /></a>
