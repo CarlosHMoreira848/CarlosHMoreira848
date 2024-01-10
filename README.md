@@ -41,8 +41,6 @@ Convido você a pensarmos juntos, o que de novo e útil podemos fazer pela trans
   <div> 
 
 <div>
-
-
 <details open> 
   <summary><h2>📘 Projetos em que estou trabalhando</h2></summary>
   <p align="left">
@@ -53,6 +51,14 @@ Convido você a pensarmos juntos, o que de novo e útil podemos fazer pela trans
 
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
+<details open> 
+  <summary><h2>⛰️ Elogios, sugestões e comentários</h2></summary>
+   <ul>
+  <li><a href="https://github.com/CarlosHMoreira848/CarlosHMoreira848/issues/new">Leia-me</a>: </li>
+  <li><a href="https://github.com/CarlosHMoreira848/WonderfulLife/issues/new">WonderfulLife</a>: </li>
+  <li><a href="https://github.com/CarlosHMoreira848/Challenge/issues/new">Challenge</a>: </li>
+  <li><a href="https://github.com/CarlosHMoreira848/assessoria-contabil-interface/issues/new">Assessoria Contábil</a>: </li>
+
 
   ##
     
