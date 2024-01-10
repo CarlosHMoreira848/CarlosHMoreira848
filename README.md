@@ -4,6 +4,8 @@
 
 <p align="center" target="_blank">
   <a href="https://discord.gg/B2DgFP86" target="_blank">Discord</a> •
+  <img src="https://komarev.com/ghpvc/?username=CarlosHMoreira848&color=red"  alt="CarlosHMoreira848" /> 
+  •
   <a href="https://www.linkedin.com/in/carlos-henrique-desenvolvimento-de-software/" target="_blank">Linkedin</a> •
   <a href="https://www.instagram.com/carloshenriquemoreiraoficial/" target="_blank">Instagram</a> •
   <a href="https://www.facebook.com/profile.php?id=100090549954215" target="_blank">Facebook</a> •
