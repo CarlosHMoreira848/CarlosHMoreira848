@@ -19,7 +19,6 @@ De lá pra cá, venho conquistando espaço na área através de meu forte impuls
 Fazer tecnologia para mim é usar dos materiais que se dispõe para criação de uma nova maneira viver, mais moderna e transformadora!...
 Convido você a pensarmos juntos, o que de novo e útil podemos fazer pela transformação do modo de se fazer as coisas? 
 
----
 
 <img align="right" src="https://github.com/CarlosHMoreira848/CarlosHMoreira848/assets/84051885/2471621c-90c0-48b1-814f-045787df8e9a" width=200 />
 
@@ -40,6 +39,20 @@ Convido você a pensarmos juntos, o que de novo e útil podemos fazer pela trans
   <div> 
 
 <div>
+
+
+<details open> 
+  <summary><h2>📘 Projetos em que estou trabalhando</h2></summary>
+  <p align="left">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CarlosHMoreira848&repo=assessoria-contabil-interface&theme=swift&hide_border=true&icon_color=F8D866&show_icons=false" alt="assessoria-contabil-interface"></a>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CarlosHMoreira848&repo=Challenge&theme=swift&hide_border=true&icon_color=F8D866&show_icons=false" alt="Challenge"></a>
+    <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=CarlosHMoreira848&repo=WonderfulLife&theme=swift&hide_border=true&icon_color=F8D866&show_icons=false" alt="WonderfulLife"></a>
+  </p>
+
+  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
+
+  ##
     
   <img width=100% src='https://www.imagensanimadas.com/data/media/134/linha-divisoria-imagem-animada-0032.gif' />
   
