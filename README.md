@@ -24,7 +24,7 @@ Convido você a pensarmos juntos, o que de novo e útil podemos fazer pela trans
 
 <img align="right" src="https://github.com/CarlosHMoreira848/CarlosHMoreira848/assets/84051885/2471621c-90c0-48b1-814f-045787df8e9a" width=200 />
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CarlosHMoreira848&theme=swift&hide_border=&locale=pt_BR&mode=weekly" alt="GitHub Streak" /></a>
+<a href=""><img src="https://github-readme-streak-stats.herokuapp.com?user=CarlosHMoreira848&theme=swift&hide_border=&locale=pt_BR&mode=weekly" alt="GitHub Streak" /></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHMoreira848&layout=compact&theme=swift&locale=pt-br)
 
