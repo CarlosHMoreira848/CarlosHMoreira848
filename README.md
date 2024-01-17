@@ -44,9 +44,9 @@ Convido você a pensarmos juntos, o que de novo e útil podemos fazer pela trans
 <details open> 
   <summary><h2>📘 Projetos em que estou trabalhando</h2></summary>
   <p align="left">
-    <a href="https://github.com/CarlosHMoreira848/assessoria-contabil-interface"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CarlosHMoreira848&repo=assessoria-contabil-interface&theme=swift&hide_border=true&icon_color=F8D866&show_icons=false" alt="assessoria-contabil-interface"></a>
-    <a href="https://github.com/CarlosHMoreira848/Challenge"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CarlosHMoreira848&repo=Challenge&theme=swift&hide_border=true&icon_color=F8D866&show_icons=false" alt="Challenge"></a>
-    <a href="https://github.com/CarlosHMoreira848/WonderfulLife"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=CarlosHMoreira848&repo=WonderfulLife&theme=swift&hide_border=true&icon_color=F8D866&show_icons=false" alt="WonderfulLife"></a>
+    <a href="https://github.com/CarlosHMoreira848/assessoria-contabil-interface"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CarlosHMoreira848&repo=assessoria-contabil-interface&theme=swift&hide_border=true&icon_color=F8D866&show_icons=false" alt="assessoria-contabil-interface" target="_blank"></a>
+    <a href="https://github.com/CarlosHMoreira848/Challenge"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=CarlosHMoreira848&repo=Challenge&theme=swift&hide_border=true&icon_color=F8D866&show_icons=false" alt="Challenge" target="_blank"></a>
+    <a href="https://github.com/CarlosHMoreira848/WonderfulLife"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=CarlosHMoreira848&repo=WonderfulLife&theme=swift&hide_border=true&icon_color=F8D866&show_icons=false" alt="WonderfulLife" target="_blank"></a>
   </p>
 
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=red&logo=repo"/></a>
